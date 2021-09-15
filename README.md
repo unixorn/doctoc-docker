@@ -1,2 +1,2 @@
 # doctoc-docker
-Docker container for running doctor
+Docker container for running doctoc
